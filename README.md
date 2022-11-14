@@ -48,4 +48,5 @@ Happy transformer is transfomer model build on top of Hugging Face's transformer
 
 ### The T5 Framework
 ![image](https://user-images.githubusercontent.com/81613474/201695090-b6310713-a906-40b3-8bfa-1dc07e6357b8.png)
+    <i>A diagram of the T5 framework. Source: T5 paper.</i>
 
