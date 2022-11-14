@@ -89,5 +89,7 @@ Here we can see that the fine-tuned model shows a significant reduction in loss.
 
 ## Further Modification’s:
   Improve the model with new dataset.
+    
   Run the model on high end hardware to reduce prediction latency.
+    
   Optimize the hyperparameters by applying techniques like grid search.
