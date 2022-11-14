@@ -83,3 +83,7 @@ Evaluation is done with loss of the model
     Loss after training: 0.30751293897628784
     
 Here we can see that the fine-tuned model shows a significant reduction in loss.
+    
+## Working Example:    
+![image](https://user-images.githubusercontent.com/81613474/201715393-4cfa017d-65e8-48cf-ae56-e3bc158fb42e.png)
+
