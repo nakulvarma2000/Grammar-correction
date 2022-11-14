@@ -14,6 +14,6 @@ JFLEG (JHU FLuency-Extended GUG) is an English grammatical error correction (GEC
   corrections: corrected versions by human annotators. The order of the annotations are consistent (eg first sentence will always be written by annotator "ref0").
 
 ### Data Splits
-  This dataset contains 1511 examples in total and comprise a dev and test split.
+  <li>This dataset contains 1511 examples in total and comprise a dev and test split.
   There are 754 and 747 source sentences for dev and test, respectively.
   Each sentence has 4 corresponding corrected versions.
