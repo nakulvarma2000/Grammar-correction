@@ -93,3 +93,6 @@ Here we can see that the fine-tuned model shows a significant reduction in loss.
   <li>Run the model on high end hardware to reduce prediction latency.
     
   <li>Optimize the hyperparameters by applying techniques like grid search.
+
+## Author
+#### Name: Nakul Ramesh Varma
