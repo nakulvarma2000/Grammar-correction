@@ -59,8 +59,11 @@ Steps to run the application:
     
 To run this code in your local system you have to download this repository using-
 
-git clone https://github.com/nakulvarma2000/Grammar-correction.git
+    git clone https://github.com/nakulvarma2000/Grammar-correction.git
 
 Now install the Happy Transformer module in anaconda prompt using:
     
     pip install happytransformer
+
+Now open the download folder in terminal and run:
+    streamlit run app.py
