@@ -68,3 +68,18 @@ Now install the Happy Transformer module in anaconda prompt using:
 Now open the download folder in terminal and run:
     
     streamlit run app.py
+    
+## Training and Evaluation
+I have used google colab for training this model.
+
+CPU : Xeon Processors @2.3Ghz
+
+GPU : Tesla T4, 15110MiB
+
+Evaluation is done with loss of the model
+    
+    Loss before training: 1.2658780813217163
+    
+    Loss after training: 0.30751293897628784
+    
+Here we can see that the fine-tuned model shows a significant reduction in loss.
