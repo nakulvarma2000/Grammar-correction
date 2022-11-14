@@ -52,3 +52,12 @@ T5 is an encoder-decoder model and converts all NLP problems into a text-to-text
     
 <i>A diagram of the T5 framework. Source: T5 paper.</i>
 
+Link to T5 paper: https://github.com/google-research/text-to-text-transfer-transformer
+
+## Installation
+Steps to run the application:
+    
+To run this code in your local system you have to download this repository using-
+
+git clone https://github.com/nakulvarma2000/Automated_Checkout.git
+
