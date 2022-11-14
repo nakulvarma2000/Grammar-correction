@@ -66,4 +66,5 @@ Now install the Happy Transformer module in anaconda prompt using:
     pip install happytransformer
 
 Now open the download folder in terminal and run:
+    
     streamlit run app.py
