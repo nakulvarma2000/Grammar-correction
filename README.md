@@ -88,8 +88,8 @@ Here we can see that the fine-tuned model shows a significant reduction in loss.
 ![image](https://user-images.githubusercontent.com/81613474/201715393-4cfa017d-65e8-48cf-ae56-e3bc158fb42e.png)
 
 ## Further Modification’s:
-  Improve the model with new dataset.
+  <li>Improve the model with new dataset.
     
-  Run the model on high end hardware to reduce prediction latency.
+  <li>Run the model on high end hardware to reduce prediction latency.
     
-  Optimize the hyperparameters by applying techniques like grid search.
+  <li>Optimize the hyperparameters by applying techniques like grid search.
