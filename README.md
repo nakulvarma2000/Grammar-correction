@@ -41,3 +41,9 @@ JFLEG (JHU FLuency-Extended GUG) is an English grammatical error correction (GEC
   pages     = {174--180},
   url       = {http://www.aclweb.org/anthology/P14-2029}
 }
+
+## Model Architecture
+
+Happy transformer is transfomer model build on top of Hugging Face's transformer module. Here my model specifically is trained on top of T5 model by google.
+
+
