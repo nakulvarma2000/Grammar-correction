@@ -59,5 +59,5 @@ Steps to run the application:
     
 To run this code in your local system you have to download this repository using-
 
-git clone https://github.com/nakulvarma2000/Automated_Checkout.git
+git clone [https://github.com/nakulvarma2000/Automated_Checkout.git](https://github.com/nakulvarma2000/Grammar-correction.git)
 
